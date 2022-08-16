@@ -1,0 +1,15 @@
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\bin\Debug\TinyTeacher.exe.config
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\bin\Debug\TinyTeacher.exe
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\bin\Debug\TinyTeacher.pdb
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\MainWindow.g.cs
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\App.g.cs
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher_MarkupCompile.cache
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher_MarkupCompile.lref
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\MainWindow.baml
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.g.resources
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.Properties.Resources.resources
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.exe
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.pdb
+D:\Изучение C#\Projects\TinyTeacher\TinyTeacher\obj\Debug\TinyTeacher.csproj.AssemblyReference.cache
